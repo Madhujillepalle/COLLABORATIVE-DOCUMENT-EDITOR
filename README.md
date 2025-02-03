@@ -1,13 +1,14 @@
-REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
+# REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
+
 COMPANY : CODTECH IT SOLUTIONS
 
-NAME : Princy Jillepalle
+NAME : MANISHA AMARANAYINI
 
-INTENR ID : CT08QPA
+INTENR ID : CT120FLH
 
 DOMAIN : FULL STACK WEB DEVELOPMENT
 
-BATCH DURATION : JANUARY 25th, 2025 to FEBRUARY 25th, 2025
+BATCH DURATION : JANUARY 20th, 2025 to FEBRUARY 20th, 2025
 
 MENTOR NAME : NEELA SANTOSH KUMAR
 
@@ -17,32 +18,5 @@ Features Real-time Collaboration: Users can edit the document simultaneously, wi
 
 OUTPUT:
 
-Image
+![Image](https://github.com/user-attachments/assets/41aa351c-02cd-414f-8931-92681913c3f6)
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-46.0%
- 
-CSS
-27.1%
- 
-HTML
-26.9%
-Footer
-# COLLABORATIVE-DOCUMENT-EDITOR
